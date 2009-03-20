@@ -4,7 +4,7 @@ Amnesia is what you get when you lose your memory.
 
 Hopefully with Amnesia you'll know exactly whats happening with memory when it comes to memcached.
 
-![Amnesia screen shot](http://img.skitch.com/20090217-cfrqkent9df5fkgujkdy9r1r8w.jpg "Amnesia")
+![Amnesia screen shot](http://skitch.com/mattallen/be2ea/amnesia "Amnesia")
 
 ## Why?
 
